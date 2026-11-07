@@ -1,0 +1,47 @@
+
+
+.intro{
+    font-family: sans-serif;
+    background-color: rgb(67, 204, 204);
+    padding:96px;
+    font-size: 2em;
+    display: flex;
+}
+.intro .introtext{
+    text-align: center;
+    width:40%;
+}
+.intro .introtext h1{
+    margin:0;
+}
+.intro .introimage{
+    justify-content: right;
+    width:50%;
+}
+
+
+
+
+.buy .buy1{
+    font-family: sans-serif;
+    font-size: 2em;
+    text-align: center;
+    padding-top:64px;
+}
+
+.buy .buy2{
+    padding-top:16px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.buy .buybutton{
+
+    font-size: 3em;
+    text-align: center;
+    font-family: sans-serif;
+    padding:16px;
+    background-color: greenyellow;
+    border-radius: 16px;
+    border: 2px solid green;
+}
